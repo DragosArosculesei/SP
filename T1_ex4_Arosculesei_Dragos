@@ -61,4 +61,3 @@ grid;
 %iar cum semnalul este sinusoidal u(t)= sin(2*pi*f*t)=sin(w*t)
 %mai exact in cazul redresarii mono alternanta
 %portiunile negative ale semnalului sunt eliminate
-© 2019 GitHub, Inc.
